@@ -57,7 +57,7 @@ if "%choice%"=="16" goto MinecraftLauncher
 if "%choice%"=="17" goto 7zip
 if "%choice%"=="18" goto WinRAR
 
-if "%choice%"=="20" goto exit
+if "%choice%"=="19" goto exit
 
 :Chrome
 cls
