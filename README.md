@@ -1,5 +1,5 @@
 # Windows-Program-Installer
-A program that allows you to install programs on Windows.
+A free and open-source program that allows you to install programs without admin.
 
 Minimum OS: Windows 10 1809
 
