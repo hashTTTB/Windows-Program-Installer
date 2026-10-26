@@ -1,5 +1,8 @@
 @echo off
 
+goto main
+
+:main
 echo --------------------------------
 echo WINDOWS PROGRAM INSTALLER v1.0.0
 echo --------------------------------
